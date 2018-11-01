@@ -32,3 +32,9 @@ p {
     width: 40%;
     padding: 25px;
 }
+.middle {
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
